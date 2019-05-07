@@ -1,0 +1,7 @@
+
+Download and store data from Flightradar ADB
+
+http://<ip address>/dump1090-fa/data/aircraft.json?_=1557216463431
+
+
+https://github.com/SDRplay/dump1090/blob/master/README-json.md
